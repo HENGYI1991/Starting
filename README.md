@@ -1,2 +1,2 @@
-# hello world
-this is my test on using of github
+# Test project
+This is my first github project I want to test. I am a molecular biologist ethusiatic about biology, informatic, and enviromental science. I want to use git hub to develop tools that scientist or people from different profession to make this world better and more sustainable. 
